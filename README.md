@@ -1,16 +1,15 @@
-## Hi there 👋
+# こんにちは！👏　私は松本武蔵です
 
-<!--
-**MatsumotoMusashi/MatsumotoMusashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+-🏫慶應義塾大学　理工学部
+-💻興味:Web / 保険数理
+-🍁現在学習中: TypeScript / etc
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Skills
+- Python
+- Ruby
+- JavaScript
+- TypeScript
+- SQL
+- HTML
+- CSS
